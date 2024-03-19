@@ -29,7 +29,3 @@ Explorez Bloggy en action sur [Bloggy](https://ehoumanvincent.github.io/Mon-Blog
 ## Contact
 
 Si vous avez des questions, des suggestions ou si vous souhaitez discuter de collaborations potentielles, n'hésitez pas à me contacter à l'adresse email ehoumanvincent51@gmail.com. Merci de contribuer à faire de Bloggy une destination incontournable pour les amateurs de blogs ! 🌟📰
-
----
-
-N'hésitez pas à ajuster les détails selon vos besoins spécifiques. Si vous avez d'autres questions ou demandes, je suis à votre disposition !
